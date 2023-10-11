@@ -4,3 +4,4 @@
 🌱 I am a frontend developer who works with HTML,CSS, JavaScript, bootstrap, and tailwind with React
 💞️ I’m looking forward to collaborating with anyone
 📫 How to reach me @whatsapp +234 09079794368
+@linkedin https://www.linkedin.com/in/emmanuel-eche-9b0312241
